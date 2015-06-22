@@ -1,0 +1,5 @@
+#
+clear
+echo "Printing"
+lpr Desktop/table/plot/1.pdf
+killall Terminal
